@@ -1,6 +1,6 @@
 # Hi, I'am Wally
 
- I am from Barranquilla, Colombia and a systems engineer, passionate about programming and decided to build stuff that makes us feel that we are on another level. I can give your Company all my 7 years of experience developing software, in addition to my enthusiasm and desire to do it. All in the best way, I can carry on my shoulders the responsibility of being in a useful member of your company.
+ I am from Barranquilla, Colombia and a systems engineer, passionate about programming and decided to build stuff that makes us feel that we are on another level. I can give your Company all my 7 years of experience developing software, in addition to my enthusiasm and desire to do it. All in the best way.
  
 #### Skills
 ![html](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
